@@ -1,0 +1,1 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([[8],{"0FWM":function(t,e,s){"use strict";s.r(e);var a=s("q1tI"),n=s.n(a);e["default"]=(()=>n.a.createElement("div",{className:"textName"},"this is test text"))}}]);
